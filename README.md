@@ -44,7 +44,7 @@ Consider the **NIST IR 8199** standard. Our Compliance Assistance System allows 
    ```bash
    git clone <repository-url>
    cd compliance-assistance-system
-  ```
+
 2. **Set Up Standards Directory**:
    Place your standards documents (PDF format) in a folder named `standards`.
 
@@ -54,9 +54,7 @@ Consider the **NIST IR 8199** standard. Our Compliance Assistance System allows 
 4. **Example Query**:
    ```python
    question = "What are federal and state restrictions on lead content in children's items?"
-   answer = retrieval_chain.invoke({"input": question})
-   print(answer['answer'])
-  ```
+
 ## Looking Forward
 
 The Compliance Assistance System provides a streamlined approach to managing compliance. Contact us today to discover how this solution can empower your organization.
