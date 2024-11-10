@@ -6,7 +6,7 @@ Organizations face an ongoing challenge to stay compliant with complex standards
 
 The **Compliance Assistance System** is an AI-driven solution designed to streamline compliance by:
 
-- **Effortlessly Summarizing Standards**: Providing quick, concise, and accurate answers from any standard, offering immediate clarity and reducing confusion.
+- **Effortlessly Standards Analysis**: Providing quick, concise, and accurate answers from any standard, offering immediate clarity and reducing confusion.
 - **Safeguarding Intellectual Property**: Operating entirely on your infrastructure, this solution gives you full control over your data, eliminating security risks associated with cloud-based LLMs.
 
 ### Example Use Case
